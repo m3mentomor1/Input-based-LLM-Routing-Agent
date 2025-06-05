@@ -9,7 +9,8 @@ A dynamic input-based LLM routing AI-agent built with n8n. It intelligently sele
 ##
 
 ### ⛓️ II. Workflow
-![image](https://github.com/user-attachments/assets/b7cd1337-a437-4a02-825e-9bc11d537f18)
+![image](https://github.com/user-attachments/assets/55a7af33-5bed-456d-be59-c1d3f6a7d100)
+
 
 
 

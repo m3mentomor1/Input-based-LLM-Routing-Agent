@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Input Based LLM Routing Agent</h1>
+  <h1>Input-based LLM Routing Agent</h1>
 </div>
 
 ### 🧐 I. Overview

@@ -10,6 +10,8 @@ A dynamic input-based LLM routing AI-agent built with n8n. It selects the most s
 
 ### ⛓️ II. Workflow
 ![image](https://github.com/user-attachments/assets/55a7af33-5bed-456d-be59-c1d3f6a7d100)
+
+The workflow above contains the following nodes: ``Chat Trigger`` ``AI Agent`` ``OpenRouter Chat Model`` ``Simple Memory`` ``Structured Output Parser``
 <br><br>
 ##
 

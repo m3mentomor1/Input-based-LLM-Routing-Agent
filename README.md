@@ -10,8 +10,30 @@ A dynamic input-based LLM routing AI-agent built with n8n. It selects the most s
 
 ### ⛓️ II. Workflow
 ![image](https://github.com/user-attachments/assets/55a7af33-5bed-456d-be59-c1d3f6a7d100)
+<br><br>
+##
 
+### 🛠️ V. Use this repository
 
+**1. Clone this repository.**
+
+   Run this command in your terminal: 
+   ```
+   git clone https://github.com/m3mentomor1/Input-based-LLM-Routing-Agent.git
+   ```
+(Optional: You can also ```Fork``` this repository.)
+
+<br>
+
+**2. Go to the repository's main directory.**
+
+   Run this command in your terminal: 
+   ```
+   cd Input-based-LLM-Routing-Agent
+   ```
+<br>
+
+##
 
 
 

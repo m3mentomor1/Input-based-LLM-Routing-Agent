@@ -13,9 +13,15 @@ A dynamic input-based LLM routing AI-agent built with n8n. It selects the most s
 <br><br>
 ##
 
-### 🛠️ V. Use this repository
+### 🛠️ III. Use this repository
 
-**1. Clone this repository.**
+**1. Make sure that you have the following requirements:**
+
+- **n8n** account (Click [here](https://app.n8n.cloud/register) to create an account)
+- **Docker** (Optional for local hosting. Download [here](https://www.docker.com/).)
+<br>
+
+**2. Clone this repository.**
 
    Run this command in your terminal: 
    ```
@@ -25,7 +31,7 @@ A dynamic input-based LLM routing AI-agent built with n8n. It selects the most s
 
 <br>
 
-**2. Go to the repository's main directory.**
+**3. Go to the repository's main directory.**
 
    Run this command in your terminal: 
    ```

@@ -35,7 +35,7 @@ The workflow above contains the following nodes:
 **1. Make sure to have the following requirements:**
 
 - **n8n** account (Click [here](https://app.n8n.cloud/register) to create an account.)
-- **OpenRouter** account (Click [here](https://openrouter.ai/) to create an account.)
+- **OpenRouter** account (Click [here](https://openrouter.ai/) to create an account. You may also need enough credits, otherwise you won't be able to make it fully work.)
 - **Docker Desktop** (Optional for local hosting. Download [here](https://www.docker.com/).)
 <br>
 

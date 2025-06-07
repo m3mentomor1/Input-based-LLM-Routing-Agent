@@ -57,12 +57,10 @@ The workflow above contains the following nodes:
    ```
 <br>
 
-**4. Import the JSON file.**
+**4. Import workflow into n8n.**
 
-- In a new or an existing workflow, go to the **Editor** tab.
-- Import **workflow.json** by clicking the three dots (**•••**), then click **Import from File...**
-<br>
-
-**5. Host workflow locally. (Optional)**
-
+- Create a new workflow or open an existing one ([n8n website](https://app.n8n.cloud/dashboard) or local via docker).
+- Click the **•••** menu in the top-right corner.
+- Select **Import from File...**
+- Choose **workflow.json** from this repository.
 <br>

@@ -14,13 +14,18 @@ based on user queries, and uses the selected model to answer, solve, or address 
 ##
 
 ### ⛓️ II. Workflow
-![image](https://github.com/user-attachments/assets/55a7af33-5bed-456d-be59-c1d3f6a7d100)
+![image](https://github.com/user-attachments/assets/02b88522-7284-4da4-b807-0d975c712279)
 
 The workflow above contains the following nodes: 
-``Chat Trigger`` 
-``AI Agent`` 
-``OpenRouter Chat Model`` 
-``Simple Memory`` 
+
+``Chat Trigger`` (Chat Input) 
+
+``AI Agent`` (Routing Agent, Agent Output)
+
+``OpenRouter Chat Model`` (gpt-4o-mini, Dynamic Model)
+
+``Simple Memory`` (Memory 1, Memory 2)
+
 ``Structured Output Parser``
 <br><br>
 ##

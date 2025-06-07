@@ -18,15 +18,15 @@ based on user queries, and uses the selected model to answer, solve, or address 
 
 The workflow above contains the following nodes: 
 
-``Chat Trigger`` (Chat Input) 
+- ``Chat Trigger`` (Chat Input) 
 
-``AI Agent`` (Routing Agent, Agent Output)
+- ``AI Agent`` (Routing Agent, Agent Output)
 
-``OpenRouter Chat Model`` (gpt-4o-mini, Dynamic Model)
+- ``OpenRouter Chat Model`` (gpt-4o-mini, Dynamic Model)
 
-``Simple Memory`` (Memory 1, Memory 2)
+- ``Simple Memory`` (Memory 1, Memory 2)
 
-``Structured Output Parser``
+- ``Structured Output Parser``
 <br><br>
 ##
 

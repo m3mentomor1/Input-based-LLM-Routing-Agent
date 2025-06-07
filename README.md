@@ -57,5 +57,11 @@ The workflow above contains the following nodes:
    ```
 <br>
 
+**4. Import the JSON file to your workflow.**
+
+- In a new or an existing workflow, go to the **Editor** tab.
+- Import **workflow.json** by clicking the three dots (**•••**).
+- Click **Import from File...**
+<br>
 
 

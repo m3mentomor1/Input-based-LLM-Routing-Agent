@@ -4,7 +4,12 @@
 
 ### 🧐 I. Overview
 
-A dynamic input-based LLM routing AI-agent built with n8n. It selects the most suitable language model: Sonar (Perplexity), GPT o3-mini-high (OpenAI), or Claude 3.5 Sonnet (Anthropic) based on user queries, and uses the selected model to answer, solve, or address the input accordingly.
+A dynamic input-based LLM routing AI-agent built with n8n. It selects the most suitable language model: 
+- Sonar (Perplexity)
+- GPT o3-mini-high (OpenAI)
+- Claude 3.5 Sonnet (Anthropic)
+
+based on user queries, and uses the selected model to answer, solve, or address the input accordingly.
 <br><br>
 ##
 

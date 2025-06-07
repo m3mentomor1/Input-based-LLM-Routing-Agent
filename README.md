@@ -65,6 +65,4 @@ The workflow above contains the following nodes:
 
 **5. Host workflow locally. (Optional)**
 
-- In a new or an existing workflow, go to the **Editor** tab.
-- Import **workflow.json** by clicking the three dots (**•••**), then click **Import from File...**
 <br>
